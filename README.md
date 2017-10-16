@@ -13,6 +13,6 @@ Les tuiles graphiques choisis permettront de déterminer le code couleur qui ser
 <bold>Inspiration : </bold>
 <ul>
 <li> <a href="https://www.la-spa.fr/"> Site SPA </a></li>
-  <li>  <a href="https://graphicriver.net/item/pet-clinic-veterinarian-logo/15881975?s_rank=6?ref=nesto" > Template site vétérinaire </a></li>
-  <li>  <a href="https://themeforest.net/item/medicplus-health-medical-wordpress-theme/16440223?ref=Datasata&clickthrough_id=1105589449&redirect_back=true"> Template site vétérianire 2 </a></li>
+  <li>  <a href="https://graphicriver.net/item/pet-clinic-veterinarian-logo/15881975?s_rank=6?ref=nesto" > Pet clinic Logo </a></li>
+  <li>  <a href="https://themeforest.net/item/medicplus-health-medical-wordpress-theme/16440223?ref=Datasata&clickthrough_id=1105589449&redirect_back=true"> Template site vétérianire  </a></li>
     
